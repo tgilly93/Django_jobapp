@@ -4,3 +4,6 @@ gunicorn==20.1.0
 Pillow==9.2.0
 sqlparse==0.4.3
 whitenoise==6.2.0
+boto3==1.24.96
+botocore==1.27.96
+django-storages==1.13.1
